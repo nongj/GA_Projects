@@ -1,4 +1,4 @@
-<img src = " ../image/cover.png" alt = "cover"/>
+<img src = "image/cover.png" alt = "cover"/>
 
 
 ### Contents
@@ -47,7 +47,7 @@ For image classification modelling, building a convolutional neural network (inc
 
 ||Test Accuracy Score|Loss (Binary Crossentropy)|Recall|F1-score|
 |---|---|---|---|---|
-|**Base (CNN)|**|0.7191|0.7338|0.8526|0.8012|
+|**Base (CNN)**|0.7191|0.7338|0.8526|0.8012|
 |**Base + Additional Hidden Layers**|0.7404|0.7660|0.8590|0.8146|
 |**Base + Additional Hidden Layers + Additional Convolutional Stack**|0.6681|1.2009|0.7628|0.7532|
 |**Base + Additional Hidden Layers + Regularization (L2)**|0.7149|1.3948|0.9679|0.8184|
