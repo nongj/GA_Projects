@@ -1,4 +1,4 @@
-<img src = " image/cover.png" alt = "cover"/>
+<img src = " ../image/cover.png" alt = "cover"/>
 
 
 ### Contents
